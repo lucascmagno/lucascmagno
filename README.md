@@ -15,9 +15,10 @@ I'm currently working on FrontEnd - Atualmente estou trabalhando em FrontEnd<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 🧙 Frases
+"o espírito sem limites é o maior tesouro do homem"
 
+<img src="https://lucascmagno.github.io/curso-html5-e-css3/img/download.jfif">
 ---
 [![](https://visitcount.itsvg.in/api?id=lucascmagno&icon=0&color=0)](https://visitcount.itsvg.in)
 
