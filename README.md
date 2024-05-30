@@ -126,9 +126,10 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascmagno&theme=dark" alt="lucascmagno" />
   </p>
-  <h3 align="center" style="color: #00ff00;">O espírito sem limites é o maior tesouro do homem</h3>
+  
+  <h3 align="center" style="color: #00ff00;">"O espírito sem limites é o maior tesouro do homem"</h3>
   <p align="center">
-    <img src="https://www.iconarchive.com/download/i108767/google/noto-emoji-people-stories/10794-man-mage.ico" alt="Mago" width="100" height="100"/>
+    <img src="https://lucascmagno.github.io/projetos/images/mago-icon.svg" alt="Mago" width="100" height="100"/>
   </p>
 </div>
 
